@@ -1,0 +1,4 @@
+个人贷款数据和网络信贷数据脱敏仿真。
+ train_public.csv 个人贷款违约记录数据，
+ train_internet.csv 某网络信用贷产品违约记录数据，
+ test_public.csv 用于测试的数据
